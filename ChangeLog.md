@@ -1,3 +1,8 @@
+2.4.0.2
+=======
+* Added Vulkan support. See `SDL.Video.Vulkan` module.
+
+
 2.4.0.1
 =======
 * Raise upper bounds for `exceptions` to <0.11
